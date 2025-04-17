@@ -34,7 +34,7 @@ Note: The time distribution of the data we collected from these subreddits.
 
 Note: This time period is the range of data we captured through these keywords. Different charging standards appear at different times and have different time period.
 
-[erd_reddit.jpg]
+![ERD](https://github.com/cshuy/reddit-text-analysis/blob/5263cda47011909cc69e8ecffce9bcbb53235ca4/erd_reddit.jpg)
 
 We applied different preprocessing steps based on various analysis methods, as shown in the table below:
 
@@ -56,10 +56,10 @@ This study highlights the significant influence of online community leaders in s
 ### Category 1: Community discussion trends
 
 * **Main insight 1.** While other charging standards gradually diminish or disappear, discussions increasingly focus on NACS.
-[word cloud.png]
+![Word cloud](https://github.com/cshuy/reddit-text-analysis/blob/d92e2996aded19033de4927fc2b3141c601b7278/word%20cloud.png)
 
 * **Main insight 2.** There is a notable increase in the number of posts and comments about NACS from June 2023 to September 2023. During this period, several automotive manufacturers announced their adoption of NACS, sparking interest and discussion within the Reddit community.
-[temporal disribution of posts.png]
+![Temporal disribution of posts](https://github.com/cshuy/reddit-text-analysis/blob/5263cda47011909cc69e8ecffce9bcbb53235ca4/temporal%20disribution%20of%20posts.png)
 
 ### Category 2: How leaders in online communities assume their roles
 
