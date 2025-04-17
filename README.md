@@ -34,6 +34,7 @@ Note: The time distribution of the data we collected from these subreddits.
 
 Note: This time period is the range of data we captured through these keywords. Different charging standards appear at different times and have different time period.
 
+Here is the ERD (Entity Relationship Diagram) of my tables:
 ![ERD](https://github.com/cshuy/reddit-text-analysis/blob/5263cda47011909cc69e8ecffce9bcbb53235ca4/erd_reddit.jpg)
 
 We applied different preprocessing steps based on various analysis methods, as shown in the table below:
