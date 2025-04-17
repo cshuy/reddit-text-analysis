@@ -1,4 +1,3 @@
-# Reddit Text Analysis
 A Python text analysis portfolio, including a scraper, preprocessing, and analysis (word cloud, sentiment analysis, named entity recognition, similarity, readability).
 # Project Background
 The characteristics of online communities attract numerous participants. However, the interactions among these participants can lead to tensions and conflicts. Therefore, leaders take specific roles in alleviating the community atmosphere. This study uses text analysis to explore how leaders in online communities take these roles and what language styles they use to influence the community.
@@ -10,6 +9,7 @@ Insights and recommendations are provided on the following key areas:
 - **Category 1:** Community discussion trends
 - **Category 1:** How leaders in online communities assume their roles
 - **Category 2:** The language styles they use to influence the community
+![workflow](https://github.com/cshuy/reddit-text-analysis/blob/fac2e2727e4bb8af7b58a59e2b19c35915e9bc51/method.png)
 
 # Data Structure & Initial Checks
 We collected data using the official Reddit API, specifically the Python Reddit API Wrapper. We selected three public subreddits: "r/electricvehicles," "r/teslamotors," and "r/cars."A description of each table is as follows:
@@ -20,19 +20,7 @@ We collected data using the official Reddit API, specifically the Python Reddit 
 | electricvehicles | 2013-07-11 | 2024-02-29 | 39,484        |
 | teslamotors      | 2014-04-09 | 2024-02-29 | 35,495        |
 | **Total**        | 2012-02-09 | 2024-02-29 | **81,750**    |
-
 Note: The time distribution of the data we collected from these subreddits.
-
-| Charging system/standards            | Keywords | Time period           | Comment count |
-| ------------------------------------ | -------- | --------------------- | ------------- |
-| **supercharger**                     | SC       | 2012/02/09~2024/02/29 | 48,758        |
-| **CHArge de MOve**                   | CHAdeMO  | 2013/07/11~2024/01/21 | 6,761         |
-| **SAE International**                | SAE      | 2014/09/11~2024/01/02 | 1,627         |
-| **Combined Charging System**         | CCS      | 2014/10/22~2024/02/29 | 27,851        |
-| **North American Charging Standard** | NACS     | 2022/11/11~2024/02/29 | 23,763        |
-| **Tesla charging standard**          | TCS      | 2022/12/06~2023/06/25 | 384           |
-
-Note: This time period is the range of data we captured through these keywords. Different charging standards appear at different times and have different time period.
 
 Here is the ERD (Entity Relationship Diagram) of my tables:
 ![ERD](https://github.com/cshuy/reddit-text-analysis/blob/5263cda47011909cc69e8ecffce9bcbb53235ca4/erd_reddit.jpg)
