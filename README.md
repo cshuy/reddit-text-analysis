@@ -20,6 +20,7 @@ We collected data using the official Reddit API, specifically the Python Reddit 
 | electricvehicles | 2013-07-11 | 2024-02-29 | 39,484        |
 | teslamotors      | 2014-04-09 | 2024-02-29 | 35,495        |
 | **Total**        | 2012-02-09 | 2024-02-29 | **81,750**    |
+
 Note: The time distribution of the data we collected from these subreddits.
 
 | Charging system/standards            | Keywords | Time period           | Comment count |
@@ -30,6 +31,7 @@ Note: The time distribution of the data we collected from these subreddits.
 | **Combined Charging System**         | CCS      | 2014/10/22~2024/02/29 | 27,851        |
 | **North American Charging Standard** | NACS     | 2022/11/11~2024/02/29 | 23,763        |
 | **Tesla charging standard**          | TCS      | 2022/12/06~2023/06/25 | 384           |
+
 Note: This time period is the range of data we captured through these keywords. Different charging standards appear at different times and have different time period.
 
 
