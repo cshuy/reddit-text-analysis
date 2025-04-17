@@ -1,3 +1,4 @@
+# Reddit Text Analysis
 This portfolio showcases various text analysis techniques implemented in Python, including:
 
 - **Web Scraping (Reddit API)**: Extraction of text data from Reddit posts and comments using the official Reddit API.
