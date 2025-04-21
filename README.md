@@ -20,8 +20,8 @@ On November 11th, 2022, Tesla announced that it would open up the North American
 Insights and recommendations are provided on the following key areas:
 
 - **Category 1:** Community discussion trends
-- **Category 1:** How leaders in online communities assume their roles
-- **Category 2:** The language styles they use to influence the community
+- **Category 2:** How leaders in online communities assume their roles
+- **Category 3:** The language styles they use to influence the community
 
 Here is the analysis workflow for my project:
 ![workflow](https://github.com/cshuy/reddit-text-analysis/blob/fac2e2727e4bb8af7b58a59e2b19c35915e9bc51/method.png)
